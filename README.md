@@ -53,5 +53,8 @@ python app.py
 
 ## Demo
 
+https://github.com/RohanSapkal97/book_recommender/assets/98053770/ee4bc2f4-d547-449e-a1ea-9a219322bddf
+
+
 
 
